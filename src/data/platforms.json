@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": 1,
+    "name": "Runway",
+    "category": "Create AI Films",
+    "description": "Explore AI-powered video generation and creative filmmaking tools.",
+    "website": "https://runwayml.com",
+    "logo": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=128",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Adobe Firefly",
+    "category": "Create AI Films",
+    "description": "Discover generative AI tools for creative visual content and video.",
+    "website": "https://firefly.adobe.com",
+    "logo": "https://www.google.com/s2/favicons?domain=adobe.com&sz=128",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "name": "YouTube",
+    "category": "Watch AI Films",
+    "description": "Find AI-generated short films, experiments, and filmmaking showcases.",
+    "website": "https://www.youtube.com",
+    "logo": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "name": "Hugging Face",
+    "category": "Studios & Communities",
+    "description": "Explore an open community sharing AI models, demos, and creative projects.",
+    "website": "https://huggingface.co",
+    "logo": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+    "featured": false
+  }
+]
