@@ -127,7 +127,7 @@
       rgba(8, 8, 16, 0.82) 48%,
       rgba(8, 8, 16, 0.38) 100%
     ),
-    url('./assets/ai-cinema-hero.png') no-repeat;
+    url('./assets/ai-cinema-hero.webp') no-repeat;
   background-size: 100% 100%, auto 100%;
   background-position: center, 63% center;
   pointer-events: none;
